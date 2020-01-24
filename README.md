@@ -1,0 +1,1 @@
+This is Smurfsh's first git project!
